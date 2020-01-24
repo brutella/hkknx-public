@@ -3,7 +3,9 @@ In diesem Repository werden [Releases](https://github.com/brutella/hkknx-public/
 
 **Was ist hkknx?**
 
-`hkknx` ist eine HomeKit KNX Brücke um KNX Geräte über HomeKit zu steuern. `hkknx` ist als Binärdatei für die verschiedenste Platformen und Betriebssystemen (macOS, linux) verfügbar. Es muss nicht anderes installiert werden – `knxd` wird nicht benötigt.
+`hkknx` ist eine HomeKit KNX Brücke um KNX Geräte über HomeKit zu steuern. Dabei wird eine direkte IP Verbindung zu einem KNX IP-Gateway aufgebaut. `knxd` wird nicht benötigt.
+
+`hkknx` ist als Binärdatei für die verschiedenste Platformen und Betriebssystemen (macOS, linux) verfügbar.
 
 **Was ist HomeKit?**
 
