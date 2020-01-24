@@ -3,7 +3,7 @@ In diesem (noch nicht öffentlichem) Repository werden **Releases** von `hkknx` 
 
 **Was ist hkknx?**
 
-`hkknx` ist eine HomeKit KNX Brücke um KNX Geräte über HomeKit zu steuern.
+`hkknx` ist eine HomeKit KNX Brücke um KNX Geräte über HomeKit zu steuern. `hkknx` ist als Binärdatei für die verschiedenste Platformen und Betriebssystem (macOS, linux) verfügbar. Es muss nicht anderes installiert werden – `knxd` wird nicht benötigt.
 
 **Was ist HomeKit?**
 
@@ -21,3 +21,11 @@ Hier ein paar Vorteile.
 - Siri unterstützt HomeKit Befehle, zB Hey Siri, Licht im Schlafzimmer ausschalten. Das heißt man bekommt eine Sprachsteuerung gratis dazu.
 - Verschlüsselter Internetzugriff auf die KNX Geräte über eine Steuerzentrale (Apple TV, HomeHub oder iPad).
 - Ein "altes" iPad kann als KNX Visualisierung an der Wand dienen.
+
+**Was benötige ich um hkknx zu testen?**
+
+Um `hkknx` verwenden zu können, benötigst du
+
+- ein KNX IP-Gateway
+- einen Computer (zB Raspberry Pi), der Zugriff auf deine KNX Installation über das KNX IP-Gateway bekommt
+- ein iOS Gerät um die KNX Brücke zu HomeKit hinzufügen zu können.
