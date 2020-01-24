@@ -1,5 +1,5 @@
 # hkknx-public
-In diesem (noch nicht öffentlichem) Repository werden **Releases** von `hkknx` veröffentlicht, und über **Issues** diskutiert.
+In diesem (noch nicht öffentlichem) Repository werden [Releases](https://github.com/brutella/hkknx-public/releases) von `hkknx` veröffentlicht, und über [Issues](https://github.com/brutella/hkknx-public/issues) diskutiert.
 
 **Was ist hkknx?**
 
