@@ -21,6 +21,7 @@ Hier ein paar Vorteile.
 - Siri unterstützt HomeKit Befehle, zB Hey Siri, Licht im Schlafzimmer ausschalten. Das heißt man bekommt eine Sprachsteuerung gratis dazu.
 - Verschlüsselter Internetzugriff auf die KNX Geräte über eine Steuerzentrale (Apple TV, HomeHub oder iPad).
 - Ein "altes" iPad kann als KNX Visualisierung an der Wand dienen.
+- Mit HomeKit kannst du anwesenheitsgesteuerte Automatisierungen erstellen.
 
 **Was benötige ich um hkknx zu testen?**
 
