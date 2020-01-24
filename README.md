@@ -36,8 +36,9 @@ Um `hkknx` verwenden zu können, benötigst du
 Lade die aktuellste [Releaseversion](https://github.com/brutella/hkknx-public/releases) herunter.
 Entpacke die Datei und lese die Anleitung in der INSTALLATION.md Datei durch.
 
-**Was kostet hkknx?**
-`hkknx` ist zurzeit noch in der Betaphase und daher gratis verfügbar.
+**Ist hkknx kostenlos verfügbar?**
+
+Während der Betaphase ist `hkknx` kostenlos verfügbar.
 Womöglich wird es nach der Betaphase eine kostenpflichtige Version geben.
 
 ## Releases
