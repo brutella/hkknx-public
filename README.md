@@ -30,3 +30,6 @@ Um `hkknx` verwenden zu können, benötigst du
 - ein KNX IP-Gateway
 - einen Computer (zB Raspberry Pi), der Zugriff auf deine KNX Installation über das KNX IP-Gateway bekommt
 - ein iOS Gerät um die KNX Brücke zu HomeKit hinzufügen zu können.
+
+Lade die aktuellste [Releaseversion](https://github.com/brutella/hkknx-public/releases) herunter.
+Entpacke die Datei und lese die Anleitung in der INSTALLATION.md Datei durch.
