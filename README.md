@@ -1,5 +1,5 @@
 # hkknx-public
-In diesem (noch nicht öffentlichem) Repository werden [Releases](https://github.com/brutella/hkknx-public/releases) von `hkknx` veröffentlicht, und über [Issues](https://github.com/brutella/hkknx-public/issues) diskutiert.
+In diesem Repository werden [Releases](https://github.com/brutella/hkknx-public/releases) von `hkknx` veröffentlicht, und über [Issues](https://github.com/brutella/hkknx-public/issues) diskutiert.
 
 **Was ist hkknx?**
 
@@ -29,14 +29,18 @@ Um `hkknx` verwenden zu können, benötigst du
 
 - ein KNX IP-Gateway
 - einen Computer (zB Raspberry Pi), der Zugriff auf deine KNX Installation über das KNX IP-Gateway bekommt
-- ein iOS Gerät um die KNX Brücke zu HomeKit hinzufügen zu können.
+- ein iOS Gerät um die KNX Brücke zu HomeKit hinzufügen zu können
 
 Lade die aktuellste [Releaseversion](https://github.com/brutella/hkknx-public/releases) herunter.
 Entpacke die Datei und lese die Anleitung in der INSTALLATION.md Datei durch.
 
+**Was kostet hkknx?**
+`hkknx` ist zurzeit noch in der Betaphase und daher gratis verfügbar.
+Womöglich wird es nach der Betaphase eine kostenpflichtige Version geben.
+
 ## Releases
 
-Es werden 3 verschiedene Packages für macOS, Linux and Raspberry Pi unter [Releases](https://github.com/brutella/hkknx-public/releases) zur Verfügung gestellt.
+Es stehen Packages für macOS, Linux and Raspberry Pi unter [Releases](https://github.com/brutella/hkknx-public/releases) zur Verfügung.
 
 | Platform  | Package |
 | ------------- | ------------- |
