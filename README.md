@@ -33,3 +33,18 @@ Um `hkknx` verwenden zu können, benötigst du
 
 Lade die aktuellste [Releaseversion](https://github.com/brutella/hkknx-public/releases) herunter.
 Entpacke die Datei und lese die Anleitung in der INSTALLATION.md Datei durch.
+
+## Releases
+
+Es werden 3 verschiedene Packages für macOS, Linux and Raspberry Pi unter [Releases](https://github.com/brutella/hkknx-public/releases) zur Verfügung gestellt.
+
+| Platform  | Package |
+| ------------- | ------------- |
+| Mac  | hkknx-x.x.x_darwin_amd64  |
+| Linux  | hkknx-x.x.x_linux_amd64  |
+| Raspberry Pi  | hkknx-x.x.x_linux_armhf  |
+
+## 0.0.1
+2020-01-24
+
+First release
