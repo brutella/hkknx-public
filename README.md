@@ -29,7 +29,7 @@ Hier ein paar Vorteile.
 
 Um `hkknx` verwenden zu können, benötigst du
 
-- ein KNX IP-Gateway
+- ein KNX IP-Gateway (KNXnet/IP Tunnelling muss unterstützt werden)
 - einen Computer (zB Raspberry Pi), der Zugriff auf deine KNX Installation über das KNX IP-Gateway bekommt
 - ein iOS Gerät um die KNX Brücke zu HomeKit hinzufügen zu können
 
