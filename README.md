@@ -43,7 +43,7 @@ Womöglich wird es nach der Betaphase eine kostenpflichtige Version geben.
 
 **Benötigt hkknx eine Internetverbindung?**
 
-Nein. `hkknx` hat eine eingebaute Weboberfläche zum Konfigurieren der KKNX Brücke. Die Verbindung zu dem KNX IP-Gateway wird über dein lokales Netzwerk hergestellt.
+Nein. `hkknx` hat eine eingebaute Weboberfläche zum Konfigurieren der KNX Brücke. Die Verbindung zu dem KNX IP-Gateway wird über dein lokales Netzwerk hergestellt.
 
 (Zum Installieren von Updates wird jedoch eine Internetverbindung benötigt.)
 
