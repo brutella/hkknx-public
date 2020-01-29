@@ -41,6 +41,12 @@ Entpacke die Datei und lese die Anleitung in der INSTALLATION.md Datei durch.
 Während der Betaphase ist `hkknx` kostenlos verfügbar.
 Womöglich wird es nach der Betaphase eine kostenpflichtige Version geben.
 
+**Benötigt hkknx eine Internetverbindung?**
+
+Nein. `hkknx` hat eine eingebaute Weboberfläche zum Konfigurieren der KKNX Brücke. Die Verbindung zu dem KNX IP-Gateway wird über dein lokales Netzwerk hergestellt.
+
+(Zum Installieren von Updates wird jedoch eine Internetverbindung benötigt.)
+
 ## Releases
 
 Es stehen Packages für macOS, Linux and Raspberry Pi unter [Releases](https://github.com/brutella/hkknx-public/releases) zur Verfügung.
