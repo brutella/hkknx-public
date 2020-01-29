@@ -1,6 +1,8 @@
 # hkknx-public
 In diesem Repository werden [Releases](https://github.com/brutella/hkknx-public/releases) von `hkknx` veröffentlicht, und über [Issues](https://github.com/brutella/hkknx-public/issues) diskutiert.
 
+2020-01-24: Öffentliche Beta-Phase hat begonnen.
+
 **Was ist hkknx?**
 
 `hkknx` ist eine HomeKit KNX Brücke um KNX Geräte über HomeKit zu steuern. Dabei wird eine direkte IP Verbindung zu einem KNX IP-Gateway aufgebaut. `knxd` wird nicht benötigt.
