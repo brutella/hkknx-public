@@ -57,4 +57,4 @@ Es stehen Packages für macOS, Linux and Raspberry Pi unter [Releases](https://g
 | ------------- | ------------- |
 | Mac  | hkknx-x.x.x_darwin_amd64  |
 | Linux  | hkknx-x.x.x_linux_amd64  |
-| Raspberry Pi  | hkknx-x.x.x_linux_armhf  |
+| Raspberry Pi  | hkknx-x.x.x_linux_arm  |
