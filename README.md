@@ -43,6 +43,8 @@ Entpacke die Datei und lese die Anleitung in der INSTALLATION.md Datei durch.
 Während der Betaphase ist `hkknx` kostenlos verfügbar.
 Womöglich wird es nach der Betaphase eine kostenpflichtige Version geben.
 
+*Hinweis: Beta-Versionen sind 90 Tage ab Veröffentlichung gültig. Danach muss auf die aktuellste Version geupdated werden.*
+
 **Benötigt hkknx eine Internetverbindung?**
 
 Nein. `hkknx` hat eine eingebaute Weboberfläche zum Konfigurieren der KNX Brücke. Die Verbindung zu dem KNX IP-Gateway wird über dein lokales Netzwerk hergestellt.
