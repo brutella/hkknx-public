@@ -51,6 +51,16 @@ Nein. `hkknx` hat eine eingebaute Weboberfläche zum Konfigurieren der KNX Brüc
 
 (Zum Installieren von Updates wird jedoch eine Internetverbindung benötigt.)
 
+**Muss Multicast im Netzwerk erlaubt sein?**
+
+Ja. Damit die HomeKit Brücke eine Verbindung mit HomeKit aufbauen kann, muss Multicast (für [mDNS](https://en.wikipedia.org/wiki/Multicast_DNS)) im Netzwerk erlaubt sein. Verwendet werden dafür die Multicast Adressen `224.0.0.251` (IPv4) und `ff02::fb` (IPv6), sowie Port `5353`.
+
+Multicast wird außerdem noch für die *Automatische Suche* des KNX IP Gateways benötigt. Dafür wird die Multicast Adresse `224.0.23.12` und Port 3671 verwendet.
+
+**Welche Ports müssen offen sein?**
+
+`hkknx` verwendet die Ports 5353 und 3671 für Multicast Anfragen. Falls nicht weiters in den Einstellungen konfiguriert, kommuniziert Brücke mit HomeKit auf einem zufälligen Port. Dieser Port kann aber in den Einstellungen festgelegt werden.
+
 ## Releases
 
 Es stehen Packages für macOS, Linux and Raspberry Pi unter [Releases](https://github.com/brutella/hkknx-public/releases) zur Verfügung.
