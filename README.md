@@ -40,8 +40,10 @@ Entpacke die Datei und lese die Anleitung in der INSTALLATION.md Datei durch.
 
 **Ist hkknx kostenlos verfügbar?**
 
-Während der Betaphase ist `hkknx` kostenlos verfügbar.
-Womöglich wird es nach der Betaphase eine kostenpflichtige Version geben.
+~~Während der Betaphase ist `hkknx` kostenlos verfügbar.
+Womöglich wird es nach der Betaphase eine kostenpflichtige Version geben.~~
+
+Die Betaphase ist seit 18. Mai 2020 beendet.
 
 *Hinweis: Beta-Versionen sind 90 Tage ab Veröffentlichung gültig. Danach muss auf die aktuellste Version geupdated werden.*
 
