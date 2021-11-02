@@ -1,6 +1,7 @@
 # hkknx-public
 In diesem Repository werden [Releases](https://github.com/brutella/hkknx-public/releases) von `hkknx` veröffentlicht, und über [Issues](https://github.com/brutella/hkknx-public/issues) diskutiert.
 
+- 2021-08-11: Version 2.0 veröffentlicht
 - 2021-06-17: Öffentliche Beta von Version 2 hat begonnen.
 - 2020-05-18: Version 1.0 veröffentlicht
 - 2020-01-24: Öffentliche Beta hat begonnen.
