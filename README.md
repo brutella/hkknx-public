@@ -72,6 +72,7 @@ Es stehen Packages für macOS, Linux and Raspberry Pi unter [Releases](https://g
 
 | Platform  | Package |
 | ------------- | ------------- |
+| M1 Mac  | hkknx-x.x.x_darwin_arm64  |
 | Mac 64-bit  | hkknx-x.x.x_darwin_amd64  |
 | Linux 64-bit  | hkknx-x.x.x_linux_amd64  |
 | Linux 32-bit  | hkknx-x.x.x_linux_386  |
