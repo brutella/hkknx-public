@@ -80,3 +80,5 @@ Es stehen Packages für macOS, Linux and Raspberry Pi unter [Releases](https://g
 | Linux 64-bit  | hkknx-x.x.x_linux_amd64  |
 | Linux 32-bit  | hkknx-x.x.x_linux_386  |
 | Raspberry Pi 32-bit   | hkknx-x.x.x_linux_arm  |
+
+Für Docker gibt es auch das offizielle Image [brutella/hkknx](https://hub.docker.com/repository/docker/brutella/hkknx)
